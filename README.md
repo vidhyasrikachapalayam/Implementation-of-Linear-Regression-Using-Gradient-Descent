@@ -58,15 +58,13 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953628/a0138386-442d-486e-9a9f-70cfc6fabbe4)
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477817/6d046f02-ca0a-4955-b9f9-68b95687f509)
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477817/25184790-1a5a-4f57-a713-28ddc73bcce7)
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477817/fd569092-08dc-4f10-9371-3f3b86f04024)
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477817/76865721-7da2-4ecb-a9a5-e9f65e4b543f)
+![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119477817/afdb3c21-521b-4978-9ba0-9e40d8369c4a)
 
-![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953628/9533464c-d63d-4a13-8d30-78a5d6a6952d)
 
-![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953628/53a0e5e1-6413-40f4-89fd-024f0ce863ba)
-
-![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953628/c2a1dd15-2a0e-4726-a6a8-c03ce9137a80)
-
-![image](https://github.com/vidhyasrikachapalayam/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145953628/758a524e-e2ad-457b-8b56-24158ed9017f)
 
 
 
